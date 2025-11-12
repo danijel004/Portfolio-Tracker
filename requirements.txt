@@ -1,0 +1,7 @@
+# Portfolio Tracker Dependencies
+
+# Finanz-Daten
+yfinance>=0.2.38
+
+# Visualisierung
+matplotlib>=3.8.0
